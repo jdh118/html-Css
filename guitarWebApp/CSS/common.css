@@ -1,9 +1,18 @@
 h2 {
-   margin-left: 10px;
+    margin-left: 10px;
     background: url("../img/icon.png") no-repeat left top;
-    background-size: contain;/*여백 크기에 맞추기*/
-    padding-left : 50px; /*글자와 그림 사이 간격주기*/
-    padding-top : 10px; /*글자와 그림 사이 간격주기*/
-    padding-bottom : 10px; /*글자와 그림 사이 간격주기*/
+    background-size: contain; /*여백 크기에 맞추기*/
+    padding-left: 50px; /*글자와 그림 사이 간격주기*/
+    padding-top: 10px; /*글자와 그림 사이 간격주기*/
+    padding-bottom: 10px; /*글자와 그림 사이 간격주기*/
 
+}
+
+.musician {
+    display: block;
+    widh: 90%;
+    margin: 15px;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
 }
